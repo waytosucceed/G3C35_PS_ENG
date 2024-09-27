@@ -1,0 +1,239 @@
+{
+  "heading": "Future Perfect",
+  "topics": [
+    {
+      "heading": "Future Perfect",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "By next week, I _____ my new bike.",
+          "options": [
+            { "text": "will ride" },
+            { "text": "will have ridden" },
+            { "text": "will be riding" },
+            { "text": "have ridden" }
+          ],
+          "answer": 1,
+          "explanation": "We use 'will have' + past participle (ridden) to show that the action of riding the new bike will be completed by next week."
+        },
+        {
+          "questionNo": 2,
+          "question": "\"The cat will have caught three mice by midnight\" is in future perfect tense.",
+          "options": [
+            { "text": "True" },
+            { "text": "False" }
+          ],
+          "answer": 0,
+          "explanation": "This sentence correctly uses 'will have' + past participle (caught) to describe an action that will be completed by a specific future time (midnight)."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which sentence is in future perfect tense?",
+          "options": [
+            { "text": "We will plant a tree tomorrow." },
+            { "text": "We will be planting a tree tomorrow." },
+            { "text": "We will have planted a tree by Earth Day." },
+            { "text": "We planted a tree last year." }
+          ],
+          "answer": 2,
+          "explanation": "This sentence uses 'will have' + past participle (planted) to show that the tree planting will be finished before a future event (Earth Day)."
+        },
+        {
+          "questionNo": 4,
+          "question": "Fill in the blank: By the time school starts, Jenny _____ (learn) to tie her shoes.",
+          "options": [
+            { "text": "will learned" },
+            { "text": "will have learned" },
+            { "text": "will have learn" },
+            { "text": "will have learning" }
+          ],
+          "answer": 1,
+          "explanation": "We use 'will have learned' to indicate that Jenny will finish learning to tie her shoes before the future event of school starts."
+        },
+        {
+          "questionNo": 5,
+          "question": "Choose the correct future perfect tense sentence:",
+          "options": [
+            { "text": "The painter will paint the house next month." },
+            { "text": "The painter will be painting the house next month." },
+            { "text": "The painter will have painted the house by next month." },
+            { "text": "The painter painted the house last year." }
+          ],
+          "answer": 2,
+          "explanation": "This sentence correctly uses 'will have' + past participle (painted) to show that the painting will be completed by a specific future time (next month)."
+        },
+        {
+          "questionNo": 6,
+          "question": "Future perfect tense always uses 'will have' + present participle of the verb.",
+          "options": [
+            { "text": "True" },
+            { "text": "False" }
+          ],
+          "answer": 1,
+          "explanation": "Future perfect tense uses 'will have' + past participle of the verb, not the present participle form."
+        },
+        {
+          "questionNo": 7,
+          "question": "By the time I go to bed, I _____ my homework.",
+          "options": [
+            { "text": "will finish" },
+            { "text": "will have finished" },
+            { "text": "will be finishing" },
+            { "text": "have finished" }
+          ],
+          "answer": 1,
+          "explanation": "We use 'will have' + past participle (finished) to show that the homework will be completed before the future event of going to bed."
+        },
+        {
+          "questionNo": 8,
+          "question": "Which sentence uses future perfect tense correctly?",
+          "options": [
+            { "text": "The bus will arrive at 3 PM." },
+            { "text": "The bus will be arriving at 3 PM." },
+            { "text": "The bus will have arrived by 3 PM." },
+            { "text": "The bus will have arriving at 3 PM yesterday." }
+          ],
+          "answer": 2,
+          "explanation": "This sentence uses 'will have' + past participle (arrived) to indicate that the bus's arrival will be completed by a specific future time (3 PM)."
+        },
+        {
+          "questionNo": 9,
+          "question": "Identify the future perfect tense sentence:",
+          "options": [
+            { "text": "The snow will melt in spring." },
+            { "text": "The snow is melting now." },
+            { "text": "The snow melted last winter." },
+            { "text": "The snow will have melted by summer." }
+          ],
+          "answer": 3,
+          "explanation": "This sentence uses 'will have' + past participle (melted) to show that the snow's melting will be completed before a future time (summer)."
+        },
+        {
+          "questionNo": 10,
+          "question": "\"They will have travelled to five countries by the end of the year\" is in the future perfect tense.",
+          "options": [
+            { "text": "True" },
+            { "text": "False" }
+          ],
+          "answer": 0,
+          "explanation": "This sentence correctly uses 'will have' + past participle (travelled) to describe an action that will be completed by a specific future time (the end of the year)."
+        },
+  
+        {
+          "questionNo": 11,
+          "question": "Which sentence is in future perfect tense?",
+          "options": [
+            { "text": "The baby will have crawled by her first birthday." },
+            { "text": "The baby is crawling now." },
+            { "text": "The baby will crawl soon." },
+            { "text": "The baby crawled yesterday." }
+          ],
+          "answer": 0,
+          "explanation": "This sentence uses 'will have' + past participle (crawled) to indicate that the baby will achieve crawling before a future event (her first birthday)."
+        },
+        {
+          "questionNo": 12,
+          "question": "Choose the correct future perfect tense sentence:",
+          "options": [
+            { "text": "The chef will cook dinner at 6 PM." },
+            { "text": "The chef will be cooking dinner at 6 PM." },
+            { "text": "The chef will have cooked dinner by 6 PM." },
+            { "text": "The chef cooked will have dinner yesterday." }
+          ],
+          "answer": 2,
+          "explanation": "This sentence correctly uses 'will have' + past participle (cooked) to show that the cooking will be completed by a specific future time (6 PM)."
+        },
+        {
+          "questionNo": 13,
+          "question": "The future perfect tense is used to talk about actions that will be ongoing in the future.",
+          "options": [
+            { "text": "True" },
+            { "text": "False" }
+          ],
+          "answer": 1,
+          "explanation": "The future perfect tense is used for actions that will be completed by a certain point in the future, not for ongoing actions."
+        },
+        {
+          "questionNo": 14,
+          "question": "By the time we reach the top of the mountain, we _____ for three hours.",
+          "options": [
+            { "text": "will climb" },
+            { "text": "will have climbed" },
+            { "text": "will be climbing" },
+            { "text": "have climbed" }
+          ],
+          "answer": 1,
+          "explanation": "We use 'will have' + past participle (climbed) to show that the climbing will have been ongoing for three hours when we reach the top."
+        },
+        {
+          "questionNo": 15,
+          "question": "Which sentence uses future perfect tense?",
+          "options": [
+            { "text": "The leaves will change colour in autumn." },
+            { "text": "The leaves are changing colour now." },
+            { "text": "The leaves will have changed colour by winter." },
+            { "text": "The leaves changed colour last fall." }
+          ],
+          "answer": 2,
+          "explanation": "This sentence uses 'will have' + past participle (changed) to indicate that the leaves colour change will be completed before a future time (winter)."
+        },
+        {
+          "questionNo": 16,
+          "question": "\"She will have practising the piano for two hours by dinnertime\" is in the future perfect tense.",
+          "options": [
+            { "text": "True" },
+            { "text": "False" }
+          ],
+          "answer": 1,
+          "explanation": "The sentence uses the incorrect form of the verb. The sentence should use 'will have' + past participle (practised) to describe an action that will be completed by a specific future time (dinnertime)."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which sentence is in future perfect tense?",
+          "options": [
+            { "text": "The sun will set at 8 PM." },
+            { "text": "The sun is setting now." },
+            { "text": "The sun will have set by the time we finish dinner." },
+            { "text": "The sun set an hour ago." }
+          ],
+          "answer": 2,
+          "explanation": "This sentence uses 'will have' + past participle (set) to indicate that the sunset will be completed before another future event (finishing dinner)."
+        },
+        {
+          "questionNo": 18,
+          "question": "Fill in the blank: By next month, the library _____ (add) 100 new books.",
+          "options": [
+            { "text": "will added" },
+            { "text": "will be adding" },
+            { "text": "will have adding" },
+            { "text": "will have added" }
+          ],
+          "answer": 3,
+          "explanation": "We use 'will have added' to show that the library will finish adding 100 new books by the time next month arrives."
+        },
+        {
+          "questionNo": 19,
+          "question": "In future perfect tense, we always use 'will have' followed by a verb ending in '-ing'.",
+          "options": [
+            { "text": "True" },
+            { "text": "False" }
+          ],
+          "answer": 1,
+          "explanation": "In future perfect tense, we use 'will have' followed by the past participle of the verb, not the '-ing' form."
+        },
+        {
+          "questionNo": 20,
+          "question": "Which sentence uses future perfect tense correctly?",
+          "options": [
+            { "text": "The train will leave the station at noon." },
+            { "text": "The train will be leaving the station at noon." },
+            { "text": "The train will have left the station by 12:15 PM." },
+            { "text": "The train left the station yesterday." }
+          ],
+          "answer": 2,
+          "explanation": "This sentence uses 'will have' + past participle (left) to indicate that the train's departure will be completed by a specific future time (12:15 PM)."
+        }
+      ]
+    }
+  ]
+}
